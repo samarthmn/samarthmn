@@ -10,13 +10,15 @@ Before moving into LLM engineering, I built products with React, Next.js, TypeSc
 
 ## Featured Projects
 
-### [data-alchemy](https://github.com/samarthmn/data-alchemy)
+### [pretendo](https://github.com/samarthmn/pretendo)
 
-Jupyter Notebook workbench for data exploration, prompt testing, and LLM experimentation.
+TypeScript product demo with a live deployment.
 
-I use notebooks when I want to inspect data, test prompts, compare model outputs, and understand what an LLM is actually doing before turning the idea into an app.
+Pretendo shows how I like to work: make the idea concrete, build the interface, deploy it, and let people try it. That product layer matters even more for AI apps, where bad UX can make a good model feel useless.
 
-**Signals:** Jupyter Notebook, Python, data analysis, prompt engineering, model evaluation, RAG foundations, embeddings
+[Live demo](https://pretendo.samarthmn.com)
+
+**Signals:** TypeScript, product UI, frontend engineering, Next.js-style product thinking, deployment
 
 ### [zyra](https://github.com/samarthmn/zyra)
 
@@ -26,23 +28,19 @@ This is part of my work in the backend and experimentation layer that LLM produc
 
 **Signals:** Python, LLM engineering, AI agents, automation, backend thinking, AI product foundations
 
-### [pretendo](https://github.com/samarthmn/pretendo)
+### [data-alchemy](https://github.com/samarthmn/data-alchemy)
 
-TypeScript product demo with a live deployment.
+Jupyter Notebook workbench for data exploration, prompt testing, and LLM experimentation.
 
-Pretendo shows how I like to work: make the idea concrete, build the interface, deploy it, and let people try it. That product layer matters even more for AI apps, where bad UX can make a good model feel useless.
+I use notebooks when I want to inspect data, test prompts, compare model outputs, and understand what an LLM is actually doing before turning the idea into an app.
 
-**Links:** [Repository](https://github.com/samarthmn/pretendo) | [Live demo](https://pretendo.samarthmn.com)
-
-**Signals:** TypeScript, product UI, frontend engineering, Next.js-style product thinking, deployment
+**Signals:** Jupyter Notebook, Python, data analysis, prompt engineering, model evaluation, RAG foundations, embeddings
 
 ### [ethereum-crowd-funding](https://github.com/samarthmn/ethereum-crowd-funding)
 
 Web3 crowdfunding application built with Next.js, TypeScript, Solidity, and Web3.
 
 This project connects a product UI with smart contract workflows. It is older work, but it still shows the kind of integration work I enjoy: frontend, backend assumptions, user flow, and external systems meeting in one product.
-
-**Links:** [Repository](https://github.com/samarthmn/ethereum-crowd-funding)
 
 **Signals:** Next.js, TypeScript, Solidity, Ethereum, Web3.js
 
@@ -103,5 +101,6 @@ That is the AI work I want more of: systems that retrieve the right context, use
 ## Links
 
 - Portfolio: [samarthmn.com](https://www.samarthmn.com)
+- Blogs: [samarthmn.com/blogs](https://www.samarthmn.com/blogs)
 - LinkedIn: [linkedin.com/in/samarthmn](https://www.linkedin.com/in/samarthmn/)
-- GitHub: [github.com/samarthmn](https://github.com/samarthmn)
+- X: [x.com/samarth_mn](https://x.com/samarth_mn)
