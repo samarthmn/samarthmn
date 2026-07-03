@@ -10,23 +10,15 @@ Before moving into LLM engineering, I built products with React, Next.js, TypeSc
 
 ## Featured Projects
 
-### [pretendo](https://github.com/samarthmn/pretendo)
+### [RAGnosis](https://github.com/samarthmn/RAGnosis)
 
-TypeScript product demo with a live deployment.
+Python research project benchmarking retrieval-augmented generation over a synthetic healthcare database.
 
-Pretendo shows how I like to work: make the idea concrete, build the interface, deploy it, and let people try it. That product layer matters even more for AI apps, where bad UX can make a good model feel useless.
+RAGnosis compares a baseline retrieval pipeline against an advanced one with query rewriting, reranking, and document enrichment, then scores each on retrieval and answer quality. It runs locally with Chroma, Ollama, and Hugging Face embeddings, and tracks experiments through configurable runs and an interactive benchmark report.
 
-[Live demo](https://pretendo.samarthmn.com)
+[Benchmark](https://ragnosis.samarthmn.com) | [Research Doc](https://ragnosis.samarthmn.com/#paper)
 
 **Signals:** TypeScript, product UI, frontend engineering, Next.js-style product thinking, deployment
-
-### [zyra](https://github.com/samarthmn/zyra)
-
-Python project for applied AI experiments.
-
-This is part of my work in the backend and experimentation layer that LLM products need: Python scripts, data handling, automation, and the early pieces behind AI agents and RAG systems.
-
-**Signals:** Python, LLM engineering, AI agents, automation, backend thinking, AI product foundations
 
 ### [data-alchemy](https://github.com/samarthmn/data-alchemy)
 
@@ -36,13 +28,23 @@ I use notebooks when I want to inspect data, test prompts, compare model outputs
 
 **Signals:** Jupyter Notebook, Python, data analysis, prompt engineering, model evaluation, RAG foundations, embeddings
 
-### [ethereum-crowd-funding](https://github.com/samarthmn/ethereum-crowd-funding)
+**Signals:** Python, RAG, LLM evaluation, vector search, embeddings, reranking, AI research
 
-Web3 crowdfunding application built with Next.js, TypeScript, Solidity, and Web3.
+### [zyra](https://github.com/samarthmn/zyra)
 
-This project connects a product UI with smart contract workflows. It is older work, but it still shows the kind of integration work I enjoy: frontend, backend assumptions, user flow, and external systems meeting in one product.
+Python project for applied AI experiments.
 
-**Signals:** Next.js, TypeScript, Solidity, Ethereum, Web3.js
+This is part of my work in the backend and experimentation layer that LLM products need: Python scripts, data handling, automation, and the early pieces behind AI agents and RAG systems.
+
+**Signals:** Python, LLM engineering, AI agents, automation, backend thinking, AI product foundations
+
+### [pretendo](https://github.com/samarthmn/pretendo)
+
+TypeScript product demo with a live deployment.
+
+Pretendo shows how I like to work: make the idea concrete, build the interface, deploy it, and let people try it. That product layer matters even more for AI apps, where bad UX can make a good model feel useless.
+
+[Live demo](https://pretendo.samarthmn.com)
 
 ## Engineering Background
 
@@ -104,3 +106,4 @@ That is the AI work I want more of: systems that retrieve the right context, use
 - Blogs: [samarthmn.com/blogs](https://www.samarthmn.com/blogs)
 - LinkedIn: [linkedin.com/in/samarthmn](https://www.linkedin.com/in/samarthmn/)
 - X: [x.com/samarth_mn](https://x.com/samarth_mn)
+- Medium: [samarthmn.medium.com](https://samarthmn.medium.com/)
