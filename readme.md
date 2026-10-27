@@ -128,17 +128,6 @@ You describe the dataset you want and pick the complexity, format, and row count
 
 The course was project-heavy and that suits me, because I learn best by building the thing, breaking it, fixing it, and then turning it into something someone can try.
 
-## What I Am Building Next
-
-I am working through LLM projects where the outcome is something a person can use:
-
-- A multimodal airline support agent with a UI, tool use, and function calling
-- A RAG knowledge worker for company-specific questions
-- A meeting minutes tool that turns audio into summaries and action items
-- A price prediction system that compares frontier models with fine-tuned open-source models
-- A multi-agent deal spotting system that evaluates options and notifies the user
-- A Python to C++ code optimizer
-
 ## How I Work
 
 - I like clear product behavior more than vague scope
