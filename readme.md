@@ -4,7 +4,7 @@
 
 Generative AI, RAG, AI Agents, LLM Evaluation, Python, TypeScript, React, Next.js, Rust
 
-[Portfolio](https://www.samarthmn.com) | [LinkedIn](https://www.linkedin.com/in/samarthmn/) | [GitHub](https://github.com/samarthmn) | [Blogs](https://www.samarthmn.com/blogs)
+[Portfolio](https://www.samarthmn.com) | [LinkedIn](https://www.linkedin.com/in/samarthmn/) | [Blogs](https://www.samarthmn.com/blogs)
 
 ## Summary
 
