@@ -12,7 +12,7 @@ I am an AI engineer and LLM engineer with a product engineering background. Befo
 
 I think the model is only one part of an AI product. For example, if the retrieval brings back the wrong context then even a very good model gives a wrong answer, and if the interface is slow or confusing then the user does not trust the answer even when it is right. So I work on retrieval quality, evals, latency, error handling, and the UI together, because all of these decide if an AI feature is useful or not.
 
-**Looking for:** AI Engineer, LLM Engineer, Generative AI Engineer, Applied AI Engineer, Senior Full-Stack Engineer, and Senior Frontend Engineer roles.
+**Looking for:** Forward Deployed Engineer (FDE), Forward Deployed AI Engineer, Applied AI Engineer, AI Engineer, LLM Engineer, Generative AI Engineer, Solutions Engineer, and Senior Full-Stack Engineer roles, where I can work directly with customers and take an AI use case from a rough requirement to a deployed product they actually use.
 
 ## Skills
 
