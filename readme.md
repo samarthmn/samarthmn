@@ -10,6 +10,16 @@ Before moving into LLM engineering, I built products with React, Next.js, TypeSc
 
 ## Featured Projects
 
+### [Echo Voice](https://github.com/samarthmn/echo-voice-web)
+
+Open-source, local AI meeting notes for your Mac.
+
+Echo Voice is a self-hosted alternative to Fireflies, Otter.ai, and Fathom: no bot joins your call, there is no account, and your audio never leaves your laptop. A browser extension records the Google Meet, Zoom, or Teams tab you are already in. Whisper transcribes locally, PyAnnote and WavLM group speakers, and a local Ollama model writes summaries, decisions, and action items linked back to the recording. Everything is stored in an encrypted SQLCipher library.
+
+[Website](https://echo-web.samarthmn.com) | [Docs](https://echo-web.samarthmn.com/docs/)
+
+**Signals:** Rust, Axum, Dioxus, TypeScript, Whisper, speaker diarization, local LLMs, Ollama, encrypted storage, browser extensions
+
 ### [RAGnosis](https://github.com/samarthmn/RAGnosis)
 
 Python research project benchmarking retrieval-augmented generation over a synthetic healthcare database.
